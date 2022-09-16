@@ -1,0 +1,50 @@
+.bk-1{
+    background: url('../images/1layerbk.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.uppersection-1{
+    text-align: left;
+    align-items: center;
+    padding: 2rem;
+}
+h1{
+    color: #fff;
+    font-size: 6rem;
+    font-weight: 500;
+}
+h2{
+    color: #fff;
+    font-size: 3rem;
+font-weight: 200;
+padding-left: 10px;
+}
+.para-1{
+    color: #fff;
+padding: 1rem;
+max-width: 50%;
+font-size: 2rem;
+}
+.button-1{
+    padding-left: 10px;
+}
+
+button{
+    background-color: rgb(255, 0, 43);
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-radius: 50px;
+    border: 1px solid red;
+    text-align: center;
+align-items: center;
+}
+button:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: ease-in 0.3s;
+}
+
+

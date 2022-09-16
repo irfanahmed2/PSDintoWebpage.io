@@ -1,0 +1,207 @@
+@media (max-width:1000px) or (max-width:1024px) {
+
+    /* setting profiles */
+    * {
+        margin: 0;
+        padding: 0;
+        width: auto;
+        height: auto;
+    }
+
+    .para-1 {
+        font-size: 2%;
+    }
+
+    .profiles {
+        padding: 0px;
+        /* max-width: 50%; */
+    }
+
+    .profiles img {
+        width: 100%;
+    }
+
+    .left-img img {
+        max-width: 100%;
+    }
+
+    .right-side h1 {
+        font-size: 5rem;
+        padding: 0 25px;
+    }
+
+    .image-right img {
+        max-width: 100%;
+
+    }
+
+    .left-text {
+        padding: 0 15px;
+    }
+
+    .midsection-5 .para {
+        text-align: center;
+        margin: auto;
+        padding: 0 50px;
+        max-width: 100%;
+    }
+
+    .midsection-5 .progress-show {
+        max-width: 100%;
+        padding: 0px;
+    }
+
+    .midsection-5 .k-cus {
+        padding: 0;
+    }
+
+    .midsection-6 {
+        size: 100%;
+    }
+
+    .midsection-6 .commonpara-6 {
+        width: fit-content;
+    }
+
+    .midsection-6 .commonimage img {
+        max-width: 9rem;
+    }
+
+    .midsection-6 .deals-profile {
+        margin: 0;
+    }
+
+    .midsection-6 .commonimage {
+        width: 114px;
+    }
+
+    .midsection-6 .common-button {
+        width: 110px;
+    }
+
+    .midsection-6 .common-button button {
+        font-size: 0.8rem;
+    }
+
+    .tiltehere h1 {
+        font-size: 2rem;
+    }
+
+    .common-head {
+        padding: 0 15px;
+    }
+
+    .common-head h1 {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width:700px) {
+    .uppersection-1 {
+        height: 100%;
+    }
+
+    .uppersection-1 .left-head h1 {
+        font-size: 3rem;
+    }
+
+    .uppersection-1 .left-head h2 {
+        font-size: 2rem;
+    }
+
+    .uppersection-1 .para-1 {
+        font-size: 1rem;
+    }
+
+    .midsection-6 .deals-profile {
+        padding-right: 25px;
+    }
+
+    .midsection-5 .commonpara p {
+        font-size: 1.5rem;
+    }
+
+    footer {
+        padding: 0;
+        margin: 0;
+    }
+
+    footer .link {
+        font-size: 1.5rem;
+    }
+
+    i {
+        font-size: 1.5rem;
+    }
+
+    .common-head {
+        padding: 0 5px;
+    }
+}
+
+@media (max-width:600px) {
+    * {
+        font-size: 0.5em;
+    }
+    .big_bur{
+        font-size: 4rem;
+    }
+
+    .bestbur {
+        font-size: 0.2rem;
+    }
+
+    .midsection-6 {
+        display: inline-table;
+    }
+
+    .midsection-6 .common-deal {
+
+        border: none;
+    }
+
+    .midsection-6 .deals-profile {
+        display: grid;
+        justify-items: center;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        margin-top: 3%;
+        margin-bottom: 1%;
+    }
+
+    .lowersection-7 .lowerpara h1 {
+        font-size: 50%;
+    }
+
+    footer .main {
+        display: grid;
+
+    }
+
+    .titlehere h1 p {
+        text-align: center;
+    }
+
+    .midsection-5 .head h1 {
+        font-size: 15em;
+    }
+
+
+
+}
+
+@media (max-width:440px) {
+    #bar-5 {
+        display: block;
+
+    }
+
+    .uppersection-3 .right-head h1 {
+        font-size: 20em;
+    }
+
+    .uppersection-3 .button-3 button {
+        font-size: 1rem;
+    }
+}

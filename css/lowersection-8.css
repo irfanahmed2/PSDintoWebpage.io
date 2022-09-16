@@ -1,0 +1,43 @@
+.lowersection-8{
+    background: url('../images/2layerbk.png');
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* width: 100%; */
+    height: 120vh; 
+    /* margin: auto; */
+}
+.head-8{
+    margin: auto;
+    text-align: center;
+    padding: 10% 0;
+}
+.head-8 h1{
+    color: red;
+}
+.para-8{
+    margin: auto;
+    text-align: center;
+    padding: 1% 0;
+}
+.para-8 h1{
+    color: red;
+}
+.email{
+    margin: auto;
+    text-align: center;
+    padding: 1% 0;
+}
+.para-8 p{
+    color: red;
+    font-size: 2rem;
+}
+.email input{
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 50px ;
+}
+.email button{
+    margin-left: -60px;
+}

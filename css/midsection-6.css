@@ -1,0 +1,74 @@
+.midsection-6 {
+    background: url('../images/2layerbk.png');
+    height: 120vh;
+}
+
+.head-6 {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin: auto;
+
+}
+
+.head-6 h1 {
+    color: red;
+}
+
+.deals-profile {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin: 0 30px;
+}
+
+.commondeal {
+    justify-content: space-between;
+    ;
+    background-color: #fff;
+    border: 5px solid white;
+    margin: 0 5px;
+}
+
+.commonhead {
+    text-align: center;
+    font-size: 2rem;
+    color: red;
+}
+
+.commonimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding: 25px;
+}
+
+.commonprice {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    padding: 0px;
+    font-size: 1.5rem;
+    color: red;
+    font-weight: 500;
+}
+
+.commonpara-6 {
+    text-align: center;
+    width: 50%;
+    align-items: center;
+    margin: auto;
+    padding: 10px 0;
+    font-size: 1rem;
+    color: red;
+}
+
+.common-button {
+    display: block;
+    padding: 5px;
+    margin: auto;
+    display: block;
+    width: 33%;
+}

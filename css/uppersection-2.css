@@ -1,0 +1,51 @@
+.uppersection-2{
+    background:url('../images/2layerbk.png');
+    max-width: 100%;
+    max-height: 100%;
+    padding: 100px 0;
+}
+/* text */
+.chef h1{
+    text-align: center;
+    color: red;
+    padding: 25px 0;
+}
+.para-div {
+    text-align: center;
+    padding: 1rem 0.5rem;
+margin: auto;
+font-size: 1rem;  
+  
+}
+.para2{
+    font-size: 1.5rem;
+    color: red;
+    padding: 1rem;
+}
+
+.profiles{
+    justify-content: space-between;
+    display: flex;
+    padding:25px 50px ;
+}
+/** profiles */
+.profile-img{
+    padding: 5px;
+    align-items: center;
+    cursor: pointer;
+}
+.profile-img img{
+    border: 1px solid transparent;
+    border-radius: 50%;
+}
+/* ** profile name */
+.profile-name{
+    text-align: center;
+    margin: auto;
+    font-size: 2rem;
+}
+.profile-work p{
+    font-size: 1.5rem;
+    color: red;
+    text-align: center;
+}

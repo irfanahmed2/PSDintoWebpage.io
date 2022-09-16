@@ -1,0 +1,21 @@
+.lowersection-7{
+    background: url('../images/6layerbk.png');
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    /* width: 100%;
+    height: 100vh; */
+    margin: auto;
+}
+.lowerpara{
+    padding: 25%;
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+}
+/* .head-7{
+    font-size: 2rem;
+    text-align: center;
+    color: #fff;
+} */

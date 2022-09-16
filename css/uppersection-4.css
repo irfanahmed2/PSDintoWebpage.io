@@ -1,0 +1,30 @@
+.uppersection-4{
+    background: url('../images/2layerbk.png');
+    align-items: center;
+    height: 100vh;
+display: flex;
+padding: 15% 20px;
+justify-content: space-between;
+}
+.image-right img{
+    float: right ;
+    border:1px solid transparent;
+    border-radius: 50%;
+    object-fit: fit;
+
+}
+.left-heading h1{
+    padding: 50px 0;
+    /* font-size: 2rem; */
+    color: red;
+}
+.left-para p{
+    font-size: 1rem;
+    color: red;
+    padding: 10px 0;
+    width: 80%;
+}
+
+.button{
+    padding: 5% 0;
+}

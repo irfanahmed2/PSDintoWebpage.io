@@ -1,0 +1,45 @@
+.midsection-5{
+    background: url('../images/3layerbk.png');
+    object-fit: fill;   
+}
+
+.head{
+    text-align: center;
+    padding: 5%  0 ;
+}
+.para{
+    text-align: center;
+    padding: 5%  0 ;
+    font-size: 1.5rem;
+    color: #fff;
+}
+.prgress-show{
+    display: flex;
+    padding: 5% 5%;
+    align-items: center;
+}
+
+.k-cus{
+    padding: 50px ;
+    justify-content: space-between;
+    margin: auto;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+.commanhead h1{
+    font-size: 5rem;
+    font-weight: 500;
+    text-align: center;
+    align-items: center;
+    padding: 15px 15px;
+}
+.commonpara p{
+    text-align: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 500;
+
+}

@@ -1,0 +1,43 @@
+.uppersection-3{
+    background: url('../images/3layerbk.png');
+    display: flex;
+    max-height: 100%;
+    padding: 100px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+.left-img{
+margin: 0 5%;
+
+}
+.left-img img{
+    border: 1px solid transparent;
+    border-radius:50% ;
+    height: auto;
+    object-position: 50%;
+}
+.right-side{
+    float: right;
+}
+.right-head{
+    margin-bottom: 90px;
+}
+.right-head h1{
+font-size: 8rem;
+}
+.rightpara{
+ padding: 25px 0;
+}
+.rightpara p{
+font-size: 1.5rem;
+color: #fff;
+}
+.button-3{
+    padding: 10% 0;
+}
+.button-3 button{
+    background-color: #fff;
+    color: red;
+    font-size: 2rem;
+    padding: 5% 15%;
+}
